@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rts map editor", "rts map editor\rts map editor\rts map editor.csproj", "{C3906366-792C-4780-B7F8-6864F9ADEE4A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "rts map editorContent", "rts map editor\rts map editorContent\rts map editorContent.contentproj", "{28FCCB83-C950-41F3-9115-C33DD11E72F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3906366-792C-4780-B7F8-6864F9ADEE4A}.Debug|x86.ActiveCfg = Debug|x86
+		{C3906366-792C-4780-B7F8-6864F9ADEE4A}.Debug|x86.Build.0 = Debug|x86
+		{C3906366-792C-4780-B7F8-6864F9ADEE4A}.Release|x86.ActiveCfg = Release|x86
+		{C3906366-792C-4780-B7F8-6864F9ADEE4A}.Release|x86.Build.0 = Release|x86
+		{28FCCB83-C950-41F3-9115-C33DD11E72F2}.Debug|x86.ActiveCfg = Debug|x86
+		{28FCCB83-C950-41F3-9115-C33DD11E72F2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
